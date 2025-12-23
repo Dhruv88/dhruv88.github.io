@@ -10,11 +10,14 @@ redirect_from:
 <!-- 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 
-## UPDATES
-### 19-12-2025 Our work on Kascade: a practical sparse attention technique for LLMs is out on [Arxiv].(https://arxiv.org/abs/2512.16391)
-### 14-12-2024 I will be presenting a tutorial on distributed GNN training at CODS-COMAD'24 on 18th December[Tutorial Website](https://github.com/gagan-iitb/DIST_GNN/)
-### 01-07-2024 I have joined Microsoft Research India as a Research Fellow.
-### 04-11-2023 My first paper accepted at ICDM'23 [Arxiv](https://arxiv.org/abs/2311.02399) [IEEE](https://ieeexplore.ieee.org/document/10415701)
+## UPDATES 
+**19-12-2025 Our work on Kascade: a practical sparse attention technique for LLMs is out on [Arxiv](https://arxiv.org/abs/2512.16391).**
+
+**14-12-2024 I will be presenting a tutorial on distributed GNN training at CODS-COMAD'24 on 18th December[Tutorial Website](https://github.com/gagan-iitb/DIST_GNN/).**
+
+**01-07-2024 I have joined Microsoft Research India as a Research Fellow.**
+
+**04-11-2023 My first paper accepted at ICDM'23 [Arxiv](https://arxiv.org/abs/2311.02399) [IEEE](https://ieeexplore.ieee.org/document/10415701).**
 
 I am a young researcher and engineer with keen interest in development of ML Systems. Currently I am working at Microsoft Research India as a Research Fellow as a part of the AI Infra team. Our current focus is on making LLM inference more efficient. 
 

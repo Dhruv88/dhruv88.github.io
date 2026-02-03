@@ -1,7 +1,7 @@
 ---
 title: "Kascade: A Practical Sparse Attention Method for Long-Context LLM Inference"
 collection: research-projects
-permalink: /research-projects/2025-10-18-research-project-4
+permalink: /research-projects/2025-10-18-research-project-5
 excerpt: 'Scalable and distributed efficient training of GNNs'
 dateFrom: 2025-03-01
 dateTo: 2025-10-18

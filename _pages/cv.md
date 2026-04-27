@@ -16,8 +16,20 @@ Education
 
 Work experience
 ======
-* Jul 2024 - Present: Research Fellow at Microsoft Research India
-  * Working on making LLM inference efficient
+* Apr 2026 - Present: Research SDE at Microsoft M365 Research
+  * Working on efficient LLM inference
+
+* Jul 2024 - Apr 2026: Research Fellow at Microsoft Research India
+  * Designed an efficient & practical sparse attention technique Kascade.
+  * Impact: Kascade achieves up to 4.1x speedup for decode attention and 2.2x for
+  prefill attention over FlashAttention-3 on H100 GPUs using custom kernels.
+  * Impact: Verified using large models like Qwen-3-32B, maintaining dense-model
+  accuracy on reasoning benchmarks (AIME-24).
+  * Architected a modular evaluation framework using the Strategy Pattern to de
+  couple attention implementations from models, enabling rapid benchmarking of
+  sparse attention schemes via Transformers on a range of downstream tasks.
+  * Supervised finetuning using FSDP on MultiHop Question-Answering datasets to learn
+  document-local sparse attention.
 
 
 * Oct 2023 - Jun 2024: Associate Software Development Engineer at Publicis Sapient

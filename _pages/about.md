@@ -21,7 +21,7 @@ This is the front page of a website that is powered by the [academicpages templa
 
 **04-11-2023 My first paper accepted at ICDM'23 [Arxiv](https://arxiv.org/abs/2311.02399) [IEEE](https://ieeexplore.ieee.org/document/10415701).**
 
-I am a young researcher and engineer with keen interest in development of ML Systems. Currently I am working at Microsoft Research India as a Research Fellow as a part of the AI Infra team. Our current focus is on making LLM inference more efficient. 
+I am a young researcher and engineer with keen interest in development of ML Systems. Recently, I joined the Microsoft M365 Research team and continue my journey in making llm inference efficient. Before this I was a Research Fellow at Microsoft Research India and worked on developing Kascade: a practical sparse attention technique. 
 
 My previous work was on distributed training of graph neural networks, developing better partitioning schemes of graph datasets that yield better accuracy through distributed training. Class imbalance is a prevalent problem graph datasets and needs to be handled to achieve better accuracies. This work focused on researching loss functions and sampling techniques that mitigate class imabalance and achieve better macro-F1 scores. We were able to bring some speed up in training and improve the macro and micro-F1 scores. The work was accepted at ICDM'23.
 

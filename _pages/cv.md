@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* Apr 2026 - Present: Research SDE at Microsoft M365 Research
+* Apr 2026 - Present: Researcher at Microsoft M365 Research
   * Working on efficient LLM inference
 
 * Jul 2024 - Apr 2026: Research Fellow at Microsoft Research India
